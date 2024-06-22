@@ -6,7 +6,8 @@
 - [AI 102](https://free-braindumps.com/microsoft/free-ai-102-braindumps.html?p=2)
 
 
-
+### Labs
+- [Ai 102 labs](https://microsoftlearning.github.io/AI-102-AIEngineer/)
 
 
 ### Updated Microsoft Azure Repo's
