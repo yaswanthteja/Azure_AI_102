@@ -7,7 +7,7 @@
 
 
 ### Labs
-- [Ai 102 labs](https://microsoftlearning.github.io/AI-102-AIEngineer/)
+- [Microsoft Azure Ai 102 labs](https://microsoftlearning.github.io/AI-102-AIEngineer/)
 
 
 ### Updated Microsoft Azure Repo's
