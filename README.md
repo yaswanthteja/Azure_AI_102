@@ -2,6 +2,9 @@
 
 
 
+### Sample Questions
+- [AI 102](https://free-braindumps.com/microsoft/free-ai-102-braindumps.html?p=2)
+
 
 
 
