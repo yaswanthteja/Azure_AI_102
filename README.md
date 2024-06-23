@@ -38,6 +38,10 @@ Complete all modules available on the official [Microsoft Learn website](https:/
 [AI 102](https://www.youtube.com/watch?v=I7fdWafTcPY&t=16s).
 
 
+### Exam duration and exam experience
+- [Microsoft Exam duration and exam experience](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience)
+
+
 ### Strategies
 - Time allocation for preparation is about one week, dedicating 3–4 hours daily. To pass the exam you need to score 700 marks.
 - The exam is 2 hours long, including a 20-minute survey time. So, you will have around 1 hour and 40 minutes to tackle approximately 42–46 questions. This should allow you sufficient time to carefully respond to each question.
@@ -48,3 +52,4 @@ Complete all modules available on the official [Microsoft Learn website](https:/
 - However, you will need to choose your preferred coding language (Python or C#) at the beginning of the test for drag-and-drop questions and to understand the code snippet type questions.
 - If you encounter questions you are unsure about, try to think logically and apply your intuitive understanding gained from hands-on labs, as they can often lead to the correct answers.
 - There is no negative exam marking in the exam.
+
